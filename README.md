@@ -1,1 +1,1 @@
-# Ajithkumar
+#Student Registration Project
